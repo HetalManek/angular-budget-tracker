@@ -21,6 +21,8 @@ Login: To access the app, use the following credentials:
 
 E-mail: admin@gmail.com
 Password: admin@123
+
+
 Register: New users can create an account by providing necessary details.
 
 Forgot Password: Users can reset their password if forgotten, by following the "Forgot Password" link on the login page.
