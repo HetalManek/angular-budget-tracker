@@ -27,7 +27,7 @@ Forgot Password: Users can reset their password if forgotten, by following the "
 
 Logout: Users can log out of their accounts securely.
 
-My Profile Page: Users can view and edit their profile information.
+My Profile Page: Users can view their profile information.
 
 ## Budget Management
 Set Budget: Users can set their budget.
