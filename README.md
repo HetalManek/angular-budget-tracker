@@ -1,7 +1,7 @@
 # BudgetTracker
 
 BudgetTracker Web App:
-Welcome to BudgetTracker, your personal finance manager web application powered by JSON Server! This application helps you manage your budget, track expenses, and stay on top of your finances effortlessly.
+Welcome to Budget-Tracker, your personal finance manager web application with JSON Server! This application helps you manage your budget, track expenses, and stay on top of your finances effortlessly.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0.
 
@@ -30,32 +30,24 @@ Logout: Users can log out of their accounts securely.
 My Profile Page: Users can view and edit their profile information.
 
 ## Budget Management
-Set Budget: Users can set their monthly or weekly budget.
+Set Budget: Users can set their budget.
 
 ## Expense Tracking
 Add Expenses: Users can add their daily expenses with details like category, amount, and date.
 
 Get List of Expenses: Users can view a list of all their recorded expenses.
 
-Search Expenses: Users can search for specific expenses based on category, amount, or date.
+Search Expenses: Users can search for specific expenses.
 
 ## Financial Summary
 Get Remaining Balance: Users can view their remaining balance after deducting expenses from the set budget.
 
-Get Total Expenses: Users can see the total amount spent during the selected time period.
+Get Total Expenses: Users can see the total amount spent.
 
 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
